@@ -1,7 +1,7 @@
 # Greetings!
 
 <img align = left  src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Filip&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
-<img width= 47% src="https://github-readme-stats.vercel.app/api?username=S-Filip&show_icons=true&theme=gruvbox&hide=stars" />
+<img width= 50% src="https://github-readme-stats.vercel.app/api?username=S-Filip&show_icons=true&theme=gruvbox&hide=stars" />
 
 
 
