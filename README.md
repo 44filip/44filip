@@ -1,6 +1,5 @@
 # Greetings! Here are some stats for a quick overlook:
 
-<img align = left  src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Filip&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 <img width= 52.5% src="https://github-readme-stats.vercel.app/api?username=S-Filip&show_icons=true&theme=gruvbox&hide=stars" />
 
 
