@@ -19,7 +19,7 @@ The order as such would be **CompTIA A+ ▶ Security+ ▶ Network+ ▶ CCNA ▶ 
 
 #
 
-### Social media and contact 💬
+### Social media and contact 📭
 
 For any and all inquiries you can contact me at filip.stanojkovic@outlook.com \
 I'm also available on LinkedIn at https://www.linkedin.com/in/filipstanojkovic \
