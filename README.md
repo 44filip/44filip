@@ -15,7 +15,7 @@ Outside of university, I'm self-learning cyber security, computer networking and
 **`comptia || cisco || offsec`**
 
 Most of my attention is going into gaining the entry level requirements for cyber security.\
-The order as such would be **CompTIA A+ ▶ Security+ ▶ Network+ ▶ CCNA ▶ OSCP**
+The order as such would be **CompTIA A+ ▶ Network+ ▶ Security+ ▶ CCNA ▶ OSCP**
 
 #
 
