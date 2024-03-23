@@ -1,5 +1,5 @@
 # ⚙ Filip Stanojković
-**`cyber security && computer networking && software development`**
+**`database administration && computer networking && software development`**
 
 I'm a third year undergraduate student at the Singidunum University, Faculty of Informatics and Computing in Belgrade, Serbia.\
 Outside of university, I'm self-learning cyber security, computer networking and scripting through HTB, Udemy and other media.
