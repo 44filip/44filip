@@ -3,8 +3,8 @@
 ### Personal information 📖
 **`system administration && computer networking && cyber security`**
 
-I'm an undergraduate student of Informatics and Computing. \
-Out of all technologies, these are my favourite to use, learn and improve in:
+I'm a third year undergraduate student of Informatics and Computing. \
+Out of all technologies, these are my favourite to use and improve in:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![rust](https://img.shields.io/badge/Rust-F16061?style=for-the-badge&logo=rust&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
