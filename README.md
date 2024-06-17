@@ -1,16 +1,26 @@
-## Hi there 👋
+# ⚙ 44filip
 
-<!--
-**44filip/44filip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Personal information 📖
+**`system administration && computer networking && cyber security`**
 
-Here are some ideas to get you started:
+I'm an undergraduate student of Informatics and Computing. \
+Out of all technologies, these are my favourite to use, learn and improve in:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![rust](https://img.shields.io/badge/Rust-F16061?style=for-the-badge&logo=rust&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+#
+
+### Current learning path 🗺
+**`comptia || cisco || microsoft`**
+
+Reinforcing my fundamentals through employment and certifications. \
+Current order of priority is **CompTIA Security+** ▶ **CCNA** ▶ **AZ-900** \
+Oracle's Database Design and Programming with SQL (June 2024 ✅)
+
+#
+
+### In-progress projects 🚧
+
+Proxmox Home Lab (video game server hosting; NAS; monitoring) \
+Understanding data analysis through ML and AI university projects \
+Minimalistic personal website for topics of interest http://44filip.xyz
