@@ -22,4 +22,4 @@ Oracle's Database Design and Programming with SQL (June 2024 ✅)
 ### In-progress projects 🚧
 
 Proxmox Home Lab (smart-home integration, monitoring, media streaming) \
-Minimalistic personal website for topics of interest http://44filip.xyz
+Minimalistic personal website for topics of interest and research http://44filip.xyz
