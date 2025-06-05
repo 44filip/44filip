@@ -1,16 +1,16 @@
-## Hi there 👋
+# ⚙ 44filip
 
-<!--
-**44filip/44filip** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Personal information 📖
+**`system administration && computer networking && cybersecurity`**
 
-Here are some ideas to get you started:
+Hybrid Cloud Engineer — primarily doing Linux and FOSS databases. \
+Fourth year undergraduate student of Informatics and Computing. \
+Out of all technologies, these are my favourite to break and abuse:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+### In-progress projects 🚧
+
+Most of my effort at the moment is focused on work and RHEL 9. \
+Proxmox Home Lab (smart-home integration, monitoring, service hosting) \
+Minimalistic personal website for topics of interest and research http://44filip.xyz
