@@ -11,6 +11,6 @@ Out of all technologies, these are my favourite to break and abuse:
 
 ### In-progress projects 🚧
 
-Most of my effort at the moment is focused on work and RHEL 9. \
+Most of my effort at the moment is focused on my job and RHEL 9. \
 Proxmox Home Lab (smart-home integration, monitoring, service hosting) \
 Minimalistic personal website for topics of interest and research http://44filip.xyz
